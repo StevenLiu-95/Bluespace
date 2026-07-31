@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ED_BlueSpace_Runtime\\Module.ED_BlueSpace_Runtime.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ED_BlueSpace_Runtime\\BSFunctionLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\ED_BlueSpace_Runtime\\ED_BlueSpace_Runtime.cpp.obj"
+	]
+}
