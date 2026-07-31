@@ -1,0 +1,8 @@
+{
+	"BuildId": "37670630",
+	"Modules": 
+	{
+		"ED_BlueSpace_Editor": "UnrealEditor-ED_BlueSpace_Editor.dll",
+		"ED_BlueSpace_Runtime": "UnrealEditor-ED_BlueSpace_Runtime.dll"
+	}
+}
